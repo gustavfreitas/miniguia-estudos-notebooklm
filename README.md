@@ -212,8 +212,50 @@ Conjunto de prompts prontos para reaplicar no NotebookLM em futuras revisões do
 ```
 
 <table>
+
+## 5. Metodologia NotebookLM
+
+```
+flowchart TD
+    A[Seleção de fontes confiáveis] --> B[Upload das fontes no NotebookLM]
+    B --> C[Geração de resumo guiado por fontes]
+    C --> D[Perguntas e respostas fundamentadas nas fontes]
+    D --> E[Testes e ajustes de prompts / troubleshooting]
+    E --> F[Geração de mapas mentais e Audio Overviews]
+    F --> G[Curadoria e estruturação no README]
+    G --> H[Revisão crítica e validação factual]
+```
+
+| Etapa | Descrição |
+|-------|-----------|
+| Seleção de fontes | Escolha de materiais confiáveis (artigos, documentação do W3C, biografias, publicações técnicas) |
+| Ingestão no NotebookLM | As fontes são carregadas para formar uma base de conhecimento fechada e rastreável |
+| Síntese guiada por fontes | O NotebookLM gera resumos e explicações **ancorados exclusivamente** no material fornecido |
+| Engenharia de prompts | Testes de diferentes formulações de pergunta, com registro de acertos e dificuldades (seção 3) |
+| Recursos multimídia | Geração de mapas mentais e *Audio Overviews* para reforçar a compreensão do conteúdo |
+| Curadoria humana | Todo o conteúdo gerado é revisado, validado e reorganizado manualmente antes de compor o README |
+
+**Notebook utilizado:** [NotebookLM — Tim Berners-Lee e a Web](https://notebook.google.com/notebook/c3db6acb-95ce-4ea2-88b7-9bd46745d4ea)
+
+### Por que essa abordagem é relevante para Engenharia de IA
+
+- Demonstra o uso de **RAG (Retrieval-Augmented Generation)** aplicado a um caso real de estudo, reduzindo alucinações ao restringir as respostas às fontes carregadas.
+- Exercita **engenharia de prompt** para obter sínteses, comparações e cronologias precisas.
+- Evidencia um fluxo de trabalho reprodutível de **curadoria de conhecimento assistida por IA**, da fonte bruta à documentação final.
+
+</table>
+
+<table>
   
-## 📋 Organização do Projeto
+## 6. Estrutura do Repositório
+
+> **Nota:** o repositório encontra-se em estágio inicial. Materiais complementares (PDFs das fontes, mapas mentais exportados) podem ser adicionados em pastas futuras (`/fontes`, `/assets`).
+
+</table>
+
+<table>
+  
+## 7. Organização do Projeto
 
 | Etapa                          | Status          | Responsável     | Objetivo                                                        |
 |----------------------------------|-----------------|------------------|---------------------------------------------------------------------|
