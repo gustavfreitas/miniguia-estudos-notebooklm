@@ -102,3 +102,39 @@ flowchart TD
 
 </table>
 
+<table>
+
+## 🧭 Trilha de Estudos
+
+### Nível 1 — Contexto Histórico
+Panorama das redes de computadores e protocolos de comunicação anteriores à criação da Web.
+
+### Nível 2 — Tim Berners-Lee e a Criação da Web
+Trajetória de Tim Berners-Lee no CERN e o desenvolvimento dos conceitos fundamentais da World Wide Web (HTTP, HTML, URI).
+
+### Nível 3 — Arquitetura Técnica da Web
+Estudo dos princípios que tornaram a Web aberta, interoperável e escalável.
+
+### Nível 4 — Padronização e o W3C
+O papel do World Wide Web Consortium na padronização de tecnologias web.
+
+### Nível 5 — Web Moderna e Desafios Atuais
+Evolução até temas contemporâneos: Web Semântica, neutralidade de rede, privacidade, centralização de dados e o projeto Solid.
+
+</table>
+
+<table>
+  
+## 📋 Organização do Projeto
+
+| Etapa                          | Status          | Responsável     | Objetivo                                                        |
+|----------------------------------|-----------------|------------------|---------------------------------------------------------------------|
+| Definição de escopo e objetivos  | ✅ Concluído    | @gustavfreitas   | Delimitar tema, público-alvo e objetivos do estudo                  |
+| Curadoria de fontes no NotebookLM| 🔄 Em andamento | @gustavfreitas   | Selecionar e carregar fontes confiáveis sobre o tema                |
+| Contexto histórico pré-Web       | 🔄 Em andamento | @gustavfreitas   | Documentar redes e protocolos anteriores à Web                      |
+| Trajetória de Tim Berners-Lee    | 🔄 Em andamento | @gustavfreitas   | Detalhar contribuições técnicas e científicas                       |
+| Arquitetura técnica da Web       | ⏳ Planejado    | @gustavfreitas   | Descrever HTTP, HTML, URI e princípios de design                    |
+| Padronização (W3C)               | ⏳ Planejado    | @gustavfreitas   | Explicar o papel do W3C na evolução da Web                          |
+| Web moderna e desafios atuais    | ⏳ Planejado    | @gustavfreitas   | Analisar Web Semântica, privacidade e o projeto Solid                |
+
+</table>
