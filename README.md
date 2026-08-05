@@ -13,3 +13,17 @@ Além do aspecto histórico, este estudo busca compreender os princípios arquit
 
 </table>
 
+<table> 
+
+# Objetivos
+
+Este caderno temático possui cinco objetivos principais.
+
+1. Compreender o contexto histórico anterior à Web;
+2. Estudar a contribuição de Tim Berners-Lee para a Ciência da Computação;
+3. Analisar a arquitetura técnica da World Wide Web;
+4. Compreender a padronização promovida pelo W3C;
+5. Investigar a evolução da Web até iniciativas modernas como Web Semântica, Net Neutrality e Solid.
+
+</table>
+
