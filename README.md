@@ -1,7 +1,7 @@
 ## Tim Berners-Lee e a Evolução da World Wide Web
 > Um estudo completo sobre a origem, evolução, arquitetura e futuro da Web, baseado na trajetória de Sir Tim Berners-Lee.
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-green)
 ![Tipo](https://img.shields.io/badge/tipo-caderno%20temático-blue)
 ![Ferramenta](https://img.shields.io/badge/IA-NotebookLM-purple)
 ![Licença](https://img.shields.io/badge/licença-não%20definida-lightgrey)
