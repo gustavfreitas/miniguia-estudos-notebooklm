@@ -159,6 +159,58 @@ Perguntas investigativas:
 
 </table>
 
+## 4. Miniguia de Estudo (Entrega Final)
+
+### 4.1 Resumos Estruturados
+
+#### Contexto histórico pré-Web
+`<Em 1989, o mundo possuía uma infraestrutura global capaz de enviar pacotes de dados (Internet), mas a informação em si estava trancada em silos proprietários, acessíveis apenas por especialistas que conheciam os endereços exatos e os comandos manuais de cada máquina
+. A Web surgiria não para criar a rede, mas para criar o espaço de informação comum sobre ela.>`
+
+#### Tim Berners-Lee e a criação da Web
+`<Berners-Lee convenceu o CERN a liberar o código-fonte da Web para o domínio público, livre de royalties, em 30 de abril de 1993
+. Ele concluiu que se a tecnologia fosse proprietária ou centralizada, ela jamais se tornaria um espaço universal, tornando-se um bloqueio para a própria inovação que ele buscava promover.>`
+
+#### Arquitetura técnica da Web
+`<Integração das Tecnologias: HTML, HTTP e URL.
+Essas três ferramentas trabalham em conjunto para criar o espaço de informação comum idealizado por Berners-Lee. O usuário utiliza uma URL para localizar um recurso; o navegador usa o protocolo HTTP para solicitar e recuperar esse recurso; e o arquivo retornado em HTML organiza o conteúdo e os links que permitem a continuidade da navegação.>`
+
+#### Padronização e o W3C
+`<A padronização da World Wide Web foi um passo fundamental para evitar a fragmentação da rede em sistemas proprietários incompatíveis e garantir que ela permanecesse um bem público universal. Para liderar esse esforço, Sir Tim Berners-Lee fundou o World Wide Web Consortium (W3C) em outubro de 1994.>`
+
+#### Web moderna e desafios atuais
+`<A evolução da Web demonstra que a tecnologia não é neutra; ela responde ao mundo que serve. A recente decisão de encerrar a World Wide Web Foundation para focar exclusivamente no Solid sinaliza que a batalha pela infraestrutura física foi vencida (70% da população online), mas a batalha pela agência humana e democracia digital está apenas começando. Como resume seu criador, a Web não é apenas uma rede de computadores, é a humanidade interconectada.>`
+
+### 4.2 Glossário
+
+| Termo | Definição |
+|-------|-----------|
+| **WWW (World Wide Web)** | `<É uma aplicação (ou serviço) que utiliza a Internet como meio de transporte. É um espaço comum de informação que permite o compartilhamento de documentos e recursos vinculados por hiperlinks.>` |
+| **HTTP** | `<É o protocolo de comunicação da camada de aplicação que funciona como a base para a troca de informações e recuperação de recursos interconectados em toda a Web.>` |
+| **HTML** | `<É a linguagem de formatação padrão utilizada para criar e estruturar páginas e aplicações na World Wide Web.>` |
+| **URI/URL** | `<URI: É o conceito mais amplo, funcionando como um identificador único para cada recurso individual disponível na rede (como documentos, imagens ou vídeos). URL: É a implementação mais comum de uma URI, servindo como o "endereço" específico que permite aos navegadores identificar e localizar a fonte de uma página ou arquivo entre milhões de servidores.>` |
+| **W3C** | `<O World Wide Web Consortium (W3C) é uma organização internacional de padronização fundada por Sir Tim Berners-Lee em outubro de 1994, no MIT, com o objetivo de levar a Web ao seu potencial máximo.>` |
+| **Web Semântica** | `<A Web original foi projetada para que humanos lessem documentos. Na visão da Web Semântica, o foco muda para os dados estruturados, que podem ser processados diretamente por máquinas. Enquanto documentos são feitos para serem lidos, os dados permitem que o computador execute tarefas complexas, encontre padrões e realize associações automáticas que seriam impossíveis em texto simples.>` |
+| **Net Neutrality** | `<A Neutralidade da Rede é o princípio de não discriminação técnica, segundo o qual os provedores de serviços de Internet (ISPs) devem tratar todo o tráfego de dados de forma idêntica.>` |
+| **Projeto Solid** | `<O Projeto Solid (acrônimo para Social Linked Data) é uma iniciativa de descentralização da Web liderada por Sir Tim Berners-Lee, desenvolvida originalmente no MIT. Seu objetivo fundamental é devolver aos usuários o controle e a soberania sobre seus dados pessoais e identidades digitais, combatendo a centralização em silos corporativos.>` |
+| **CERN** | `<O papel do CERN (Organização Europeia para a Pesquisa Nuclear) foi fundamental como o "berço" e o catalisador para a invenção da World Wide Web, fornecendo a infraestrutura técnica e o ambiente colaborativo necessários para o trabalho de Sir Tim Berners-Lee. A Web não foi criada como um projeto oficial do laboratório, mas surgiu como uma solução pragmática para resolver a fragmentação de informações entre cientistas que utilizavam sistemas de computação incompatíveis.>` |
+
+### 4.3 Prompts Reutilizáveis para Revisão
+
+Conjunto de prompts prontos para reaplicar no NotebookLM em futuras revisões do tema:
+
+```
+1. "Resuma em até 5 tópicos a cronologia dos eventos que antecederam a criação da World Wide Web, citando a fonte de cada evento."
+
+2. "Explique a contribuição técnica de Tim Berners-Lee para a criação da Web, destacando HTTP, HTML e URI separadamente."
+
+3. "Compare a arquitetura original da Web proposta por Tim Berners-Lee com o cenário atual de centralização de dados."
+
+4. "Liste os principais marcos da padronização promovida pelo W3C, em ordem cronológica."
+
+5. "Explique o conceito de Web Semântica e como ele se relaciona com o projeto Solid, com base apenas nas fontes carregadas."
+```
+
 <table>
   
 ## 📋 Organização do Projeto
