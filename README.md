@@ -10,7 +10,7 @@
 
 ## Sumário
 
-- [Assunto de Interesse](#-assunto-de-interesse)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
 - [1. Contexto e Objetivos](#1-contexto-e-objetivos)
 - [2. Curadoria de Fontes](#2-curadoria-de-fontes)
 - [3. Engenharia de Prompts e Troubleshooting](#3-engenharia-de-prompts-e-troubleshooting)
@@ -26,42 +26,6 @@
 </table>
 
 <table>
-  
-## 📖 Assunto de Interesse
-
-O tema escolhido para este caderno temático é a **trajetória de Sir Tim Berners-Lee e a evolução da World Wide Web**.
-
-A Internet transformou profundamente a sociedade moderna, mas sua evolução não ocorreu de forma instantânea. Antes da criação da Web, já existiam redes de computadores, protocolos de comunicação e iniciativas voltadas ao compartilhamento de informações.
-
-Este repositório documenta, de maneira cronológica e técnica, como essas tecnologias evoluíram até culminarem na criação da **World Wide Web** por Tim Berners-Lee, pesquisador do CERN e fundador do **World Wide Web Consortium (W3C)**. Além do aspecto histórico, o estudo investiga os princípios arquiteturais que tornaram a Web aberta, interoperável e escalável, bem como os desafios atuais relacionados à centralização de dados, privacidade e soberania digital — incluindo iniciativas como o **projeto Solid**.
-
-Este tema foi escolhido por conectar dois eixos de interesse: a **história da Ciência da Computação** e a **engenharia de sistemas distribuídos abertos**, ambos fundamentais para compreender a internet como ela é usada hoje.
-
-**Público-alvo:**
-- Estudantes de Ciência da Computação e áreas correlatas
-- Profissionais de tecnologia interessados na história da Web
-- Pesquisadores de arquitetura de sistemas distribuídos
-- Praticantes de Engenharia de IA interessados em fluxos de estudo assistidos por IA
-
-</table>
-
-<table>
-  
-## 🎯 Objetivos de Estudo
-
-Este caderno temático possui cinco objetivos principais:
-
-- [ ] Compreender o contexto histórico anterior à criação da Web
-- [ ] Estudar a contribuição de Tim Berners-Lee para a Ciência da Computação
-- [ ] Analisar a arquitetura técnica da World Wide Web
-- [ ] Compreender a padronização promovida pelo W3C
-- [ ] Investigar a evolução da Web até iniciativas modernas, como Web Semântica, Net Neutrality e Solid
-
-Paralelamente ao conteúdo histórico, o projeto também tem como objetivo **explorar o poder do NotebookLM** como ferramenta de Engenharia de IA para pesquisa, síntese e organização de conhecimento a partir de fontes confiáveis.
-
-</table> 
-  
-<table>
 
   ## 🗂 Estrutura do Repositório
 
@@ -70,37 +34,43 @@ Paralelamente ao conteúdo histórico, o projeto também tem como objetivo **exp
 </table>
 
 <table>
- 
-## 🧠 Metodologia NotebookLM
+  
+## 1. Contexto e Objetivos
 
-Este projeto adota o **NotebookLM** (Google) não apenas como ferramenta de apoio, mas como o núcleo metodológico do processo de estudo — funcionando como um exercício prático de **Engenharia de IA** aplicada à pesquisa.
+### Assunto de interesse
 
-### Como o NotebookLM é utilizado
+O tema escolhido para este caderno temático é a **trajetória de Sir Tim Berners-Lee e a evolução da World Wide Web** — desde o contexto de redes e protocolos que a antecederam até os desafios contemporâneos de privacidade, centralização de dados e descentralização (projeto Solid).
 
-```mermaid
-flowchart TD
-    A[Seleção de fontes confiáveis] --> B[Upload das fontes no NotebookLM]
-    B --> C[Geração de resumo guiado por fontes]
-    C --> D[Perguntas e respostas fundamentadas nas fontes]
-    D --> E[Geração de mapas mentais e visões gerais em áudio]
-    E --> F[Curadoria e estruturação no README]
-    F --> G[Revisão crítica e validação factual]
-```
+Este tema foi escolhido por conectar dois eixos de interesse: a **história da Ciência da Computação** e a **engenharia de sistemas distribuídos abertos**, servindo também como estudo de caso prático para explorar o **NotebookLM como ferramenta de Engenharia de IA**.
 
-| Etapa                          | Descrição                                                                                     |
-|---------------------------------|-------------------------------------------------------------------------------------------------|
-| Seleção de fontes                | Escolha de materiais confiáveis (artigos, documentação do W3C, biografias, publicações técnicas) |
-| Ingestão no NotebookLM           | As fontes são carregadas para formar uma base de conhecimento fechada e rastreável              |
-| Síntese guiada por fontes         | O NotebookLM gera resumos e explicações **ancorados exclusivamente** no material fornecido       |
-| Perguntas e respostas (Q&A)      | Uso de prompts estruturados para extrair conceitos-chave, cronologias e relações causais         |
-| Recursos multimídia              | Geração de mapas mentais e *Audio Overviews* para reforçar a compreensão do conteúdo             |
-| Curadoria humana                 | Todo o conteúdo gerado é revisado, validado e reorganizado manualmente antes de compor o README  |
+### Objetivos de estudo
 
-### Por que essa abordagem é relevante para Engenharia de IA
+- [ ] Compreender o contexto histórico anterior à criação da Web
+- [ ] Estudar a contribuição de Tim Berners-Lee para a Ciência da Computação
+- [ ] Analisar a arquitetura técnica da World Wide Web
+- [ ] Compreender a padronização promovida pelo W3C
+- [ ] Investigar a evolução da Web até iniciativas modernas, como Web Semântica, Net Neutrality e Solid
+- [ ] Documentar, de forma reprodutível, o processo de curadoria e engenharia de prompts utilizado no NotebookLM
 
-- Demonstra o uso de **RAG (Retrieval-Augmented Generation)** aplicado a um caso real de estudo, reduzindo alucinações ao restringir as respostas às fontes carregadas.
-- Exercita **engenharia de prompt** para obter sínteses, comparações e cronologias precisas.
-- Evidencia um fluxo de trabalho reprodutível de **curadoria de conhecimento assistida por IA**, da fonte bruta à documentação final.
+**Público-alvo:** estudantes de Ciência da Computação, profissionais de tecnologia, pesquisadores de sistemas distribuídos e praticantes de Engenharia de IA interessados em fluxos de estudo assistidos por IA.
+
+</table> 
+
+<table>
+
+## 2. Curadoria de Fontes
+
+Fontes abertas (texto/PDF) selecionadas e carregadas no NotebookLM para fundamentar as respostas geradas — todas restritas ao conteúdo dessas fontes (RAG), evitando alucinações.
+
+| # | Fonte | Tipo | Link |
+|---|-------|------|------|
+| 1 | `<A short history of the Web (Tim Berners-Lee, CERN, 1989)>` | Texto/Artigo | `<https://home.cern/science/computing/the-birth-of-the-web/short-history-web/>` |
+| 2 | `<History - About us - W3C>` | Texto/Artigo | `<https://www.w3.org/about/history/>` |
+| 3 | `<1997: TIM BERNERS-LEE warns the WEB could DIVIDE US - BBC Archieve>` | Texto/Video | `<https://www.youtube.com/watch?v=BOHyLkp7TpE>` |
+| 4 | `<Sir Tim Berners Lee, Inventor of the World Wide Web.>` | Texto/Video | `<https://www.youtube.com/watch?v=0jXO6M--lu0>` |
+| 5 | `<About Solid Project>` | Texto/PDF | `<https://www.inrupt.com/solid>` |
+
+> Todas as fontes usadas neste projeto estão disponíveis no notebook original: [NotebookLM — Tim Berners-Lee e a Web](https://notebook.google.com/notebook/c3db6acb-95ce-4ea2-88b7-9bd46745d4ea). 
 
 </table>
 
