@@ -90,15 +90,15 @@ Registro das perguntas estratégicas elaboradas no NotebookLM, as variações de
 | **Dificuldade encontrada** | `<Faltou a Cronologia dos Fatos.` |
 | **Ajuste aplicado** | `<Desenvolva uma análise histórica baseada em literatura acadêmica sobre os desafios existentes antes da criação da World Wide Web.>` |
 
-### 3.2 Prompt #2 — `<tema do prompt>`
+### 3.2 Prompt #2 — `<Tema do Prompt: Criação da Web e comparações com outras aplicações>`
 
 | Campo | Conteúdo |
 |-------|----------|
-| **Prompt utilizado** | `<...>` |
-| **Resposta obtida (resumo)** | `<...>` |
-| **Fonte(s) referenciada(s)** | `<...>` |
-| **Dificuldade encontrada** | `<...>` |
-| **Ajuste aplicado** | `<...>` |
+| **Prompt utilizado** | `<Explique o raciocínio que levou Tim Berners-Lee à criação da Web e compare com outras soluções da época.>` |
+| **Resposta obtida (resumo)** | `<O raciocínio de Sir Tim Berners-Lee para criar a Web foi motivado por uma combinação de frustração técnica, uma limitação pessoal de memória e a busca por replicar o funcionamento do cérebro humano na organização de dados.>` |
+| **Fonte(s) referenciada(s)** | `<https://webfoundation.org/about/vision/history-of-the-web/>` |
+| **Dificuldade encontrada** | `<Dificuldade na separaração de intenções documentadas e de interpretações posteriores ao sucesso da Web.>` |
+| **Ajuste aplicado** | `<Assuma o papel de um historiador da tecnologia com especialização em Arquitetura da Web. Reconstrua o raciocínio de Tim Berners-Lee utilizando exclusivamente evidências provenientes de documentos históricos, entrevistas, artigos científicos e publicações técnicas reconhecidas.>` |
 
 ### 3.3 Prompt #3 — `<tema do prompt>`
 
