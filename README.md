@@ -100,17 +100,15 @@ Registro das perguntas estratégicas elaboradas no NotebookLM, as variações de
 | **Dificuldade encontrada** | `<Dificuldade na separaração de intenções documentadas e de interpretações posteriores ao sucesso da Web.>` |
 | **Ajuste aplicado** | `<Assuma o papel de um historiador da tecnologia com especialização em Arquitetura da Web. Reconstrua o raciocínio de Tim Berners-Lee utilizando exclusivamente evidências provenientes de documentos históricos, entrevistas, artigos científicos e publicações técnicas reconhecidas.>` |
 
-### 3.3 Prompt #3 — `<tema do prompt>`
+### 3.3 Prompt #3 — `<Tema do Prompt: Impactos e Controvérsias pós-Web>`
 
 | Campo | Conteúdo |
 |-------|----------|
-| **Prompt utilizado** | `<...>` |
-| **Resposta obtida (resumo)** | `<...>` |
-| **Fonte(s) referenciada(s)** | `<...>` |
-| **Dificuldade encontrada** | `<...>` |
-| **Ajuste aplicado** | `<...>` |
-
-> ⚠️ **Ação necessária:** preencha cada tabela com prompts reais testados no seu notebook (recomenda-se documentar pelo menos 3, cobrindo diferentes objetivos: cronologia, conceitos técnicos, comparações e temas atuais).
+| **Prompt utilizado** | `<Faça uma analise do impacto da criação da internet nos aspectos: econômico, científico, social. E suas controvérsias pós criação da Web.>` |
+| **Resposta obtida (resumo)** | `<A transição da Web de um ambiente puramente acadêmico para o uso comercial transformou a economia global, tornando 1994 o ano em que ela se tornou definitivamente um "grande negócio".>` |
+| **Fonte(s) referenciada(s)** | `<https://www.youtube.com/watch?v=BOHyLkp7TpE>` |
+| **Dificuldade encontrada** | `<Exigir análise equilibrada, baseada em evidências e reconhecendo limitações, sem ser tendênciosa a uma perspectiva boa ou ruim.>` |
+| **Ajuste aplicado** | `<Analise a criação da Internet e da World Wide Web como um sistema sociotécnico. Explique como decisões arquiteturais aparentemente técnicas produziram consequências econômicas, sociais e políticas ao longo das décadas.>` |
 
 ### 3.4 Lições aprendidas (troubleshooting geral)
 
@@ -126,13 +124,13 @@ Registro das perguntas estratégicas elaboradas no NotebookLM, as variações de
 
 | Etapa                          | Status          | Responsável     | Objetivo                                                        |
 |----------------------------------|-----------------|------------------|---------------------------------------------------------------------|
-| Definição de escopo e objetivos  | ✅ Concluído    | @gustavfreitas   | Delimitar tema, público-alvo e objetivos do estudo                  |
-| Curadoria de fontes no NotebookLM| ✅ Concluído   | @gustavfreitas   | Selecionar e carregar fontes confiáveis sobre o tema                |
-| Contexto histórico pré-Web       | 🔄 Em andamento | @gustavfreitas   | Documentar redes e protocolos anteriores à Web                      |
-| Trajetória de Tim Berners-Lee    | 🔄 Em andamento | @gustavfreitas   | Detalhar contribuições técnicas e científicas                       |
-| Arquitetura técnica da Web       | ⏳ Planejado    | @gustavfreitas   | Descrever HTTP, HTML, URI e princípios de design                    |
-| Padronização (W3C)               | ⏳ Planejado    | @gustavfreitas   | Explicar o papel do W3C na evolução da Web                          |
-| Web moderna e desafios atuais    | ⏳ Planejado    | @gustavfreitas   | Analisar Web Semântica, privacidade e o projeto Solid                |
+| Definição de escopo e objetivos  | ✅ Concluído | @gustavfreitas   | Delimitar tema, público-alvo e objetivos do estudo                  |
+| Curadoria de fontes no NotebookLM| ✅ Concluído | @gustavfreitas   | Selecionar e carregar fontes confiáveis sobre o tema                |
+| Contexto histórico pré-Web       | ✅ Concluído | @gustavfreitas   | Documentar redes e protocolos anteriores à Web                      |
+| Trajetória de Tim Berners-Lee    | ✅ Concluído | @gustavfreitas   | Detalhar contribuições técnicas e científicas                       |
+| Arquitetura técnica da Web       | 🔄 Em andamento | @gustavfreitas   | Descrever HTTP, HTML, URI e princípios de design                    |
+| Padronização (W3C)               | 🔄 Em andamento | @gustavfreitas   | Explicar o papel do W3C na evolução da Web                          |
+| Web moderna e desafios atuais    | 🔄 Em andamento | @gustavfreitas   | Analisar Web Semântica, privacidade e o projeto Solid                |
 
 </table>
 
