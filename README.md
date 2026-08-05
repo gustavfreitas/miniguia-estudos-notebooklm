@@ -68,7 +68,7 @@ Fontes abertas (texto/PDF) selecionadas e carregadas no NotebookLM para fundamen
 | 2 | `<History - About us - W3C>` | Texto/Artigo | `<https://www.w3.org/about/history/>` |
 | 3 | `<1997: TIM BERNERS-LEE warns the WEB could DIVIDE US - BBC Archieve>` | Texto/Video | `<https://www.youtube.com/watch?v=BOHyLkp7TpE>` |
 | 4 | `<Sir Tim Berners Lee, Inventor of the World Wide Web.>` | Texto/Video | `<https://www.youtube.com/watch?v=0jXO6M--lu0>` |
-| 5 | `<About Solid Project>` | Texto/PDF | `<https://www.inrupt.com/solid>` |
+| 5 | `<A brief history of the World Wide Web>` | Texto/Video | `<https://www.youtube.com/watch?v=sSqZ_hJu9zA>` |
 
 > Todas as fontes usadas neste projeto estão disponíveis no notebook original: [NotebookLM — Tim Berners-Lee e a Web](https://notebook.google.com/notebook/c3db6acb-95ce-4ea2-88b7-9bd46745d4ea). 
 
@@ -76,22 +76,47 @@ Fontes abertas (texto/PDF) selecionadas e carregadas no NotebookLM para fundamen
 
 <table>
 
-## 🧭 Trilha de Estudos
+## 3. Engenharia de Prompts e Troubleshooting
 
-### Nível 1 — Contexto Histórico
-Panorama das redes de computadores e protocolos de comunicação anteriores à criação da Web.
+Registro das perguntas estratégicas elaboradas no NotebookLM, as variações de prompt testadas, as respostas obtidas e as dificuldades encontradas ao longo do processo.
 
-### Nível 2 — Tim Berners-Lee e a Criação da Web
-Trajetória de Tim Berners-Lee no CERN e o desenvolvimento dos conceitos fundamentais da World Wide Web (HTTP, HTML, URI).
+### 3.1 Prompt #1 — `<Tema do Prompt: Contexto Histórico pré-Web>`
 
-### Nível 3 — Arquitetura Técnica da Web
-Estudo dos princípios que tornaram a Web aberta, interoperável e escalável.
+| Campo | Conteúdo |
+|-------|----------|
+| **Prompt utilizado** | `<Identifique o problema histórico que existia antes da Web.>` |
+| **Resposta obtida (resumo)** | `<Antes da criação da World Wide Web, o principal problema histórico era a fragmentação extrema e a incompatibilidade da informação armazenada em diferentes sistemas.>` |
+| **Fonte(s) referenciada(s)** | `<A brief history of the World Wide Web>` |
+| **Dificuldade encontrada** | `<Faltou a Cronologia dos Fatos.` |
+| **Ajuste aplicado** | `<Desenvolva uma análise histórica baseada em literatura acadêmica sobre os desafios existentes antes da criação da World Wide Web.>` |
 
-### Nível 4 — Padronização e o W3C
-O papel do World Wide Web Consortium na padronização de tecnologias web.
+### 3.2 Prompt #2 — `<tema do prompt>`
 
-### Nível 5 — Web Moderna e Desafios Atuais
-Evolução até temas contemporâneos: Web Semântica, neutralidade de rede, privacidade, centralização de dados e o projeto Solid.
+| Campo | Conteúdo |
+|-------|----------|
+| **Prompt utilizado** | `<...>` |
+| **Resposta obtida (resumo)** | `<...>` |
+| **Fonte(s) referenciada(s)** | `<...>` |
+| **Dificuldade encontrada** | `<...>` |
+| **Ajuste aplicado** | `<...>` |
+
+### 3.3 Prompt #3 — `<tema do prompt>`
+
+| Campo | Conteúdo |
+|-------|----------|
+| **Prompt utilizado** | `<...>` |
+| **Resposta obtida (resumo)** | `<...>` |
+| **Fonte(s) referenciada(s)** | `<...>` |
+| **Dificuldade encontrada** | `<...>` |
+| **Ajuste aplicado** | `<...>` |
+
+> ⚠️ **Ação necessária:** preencha cada tabela com prompts reais testados no seu notebook (recomenda-se documentar pelo menos 3, cobrindo diferentes objetivos: cronologia, conceitos técnicos, comparações e temas atuais).
+
+### 3.4 Lições aprendidas (troubleshooting geral)
+
+- `<ex: prompts muito abertos geram respostas superficiais — prompts com escopo e formato definidos (ex: "liste em ordem cronológica") funcionam melhor>`
+- `<ex: pedir explicitamente a citação da fonte reduz respostas genéricas>`
+- `<ex: dividir perguntas complexas em sub-perguntas melhorou a precisão>`
 
 </table>
 
