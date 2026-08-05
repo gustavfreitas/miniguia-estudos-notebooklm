@@ -11,11 +11,13 @@
 ## Sumário
 
 - [Assunto de Interesse](#-assunto-de-interesse)
-- [Objetivos de Estudo](#-objetivos-de-estudo)
-- [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Metodologia NotebookLM](#-metodologia-notebooklm)
-- [Trilha de Estudos](#-trilha-de-estudos)
-- [Organização do Projeto](#-organização-do-projeto)
+- [1. Contexto e Objetivos](#1-contexto-e-objetivos)
+- [2. Curadoria de Fontes](#2-curadoria-de-fontes)
+- [3. Engenharia de Prompts e Troubleshooting](#3-engenharia-de-prompts-e-troubleshooting)
+- [4. Miniguia de Estudo (Entrega Final)](#4-miniguia-de-estudo-entrega-final)
+- [5. Metodologia NotebookLM](#5-metodologia-notebooklm)
+- [6. Estrutura do Repositório](#6-estrutura-do-repositório)
+- [7. Organização do Projeto](#7-organização-do-projeto)
 - [Referências](#-referências)
 - [Como Contribuir](#-como-contribuir)
 - [Licença](#-licença)
