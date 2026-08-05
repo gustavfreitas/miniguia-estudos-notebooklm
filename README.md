@@ -221,9 +221,9 @@ Conjunto de prompts prontos para reaplicar no NotebookLM em futuras revisões do
 | Curadoria de fontes no NotebookLM| ✅ Concluído | @gustavfreitas   | Selecionar e carregar fontes confiáveis sobre o tema                |
 | Contexto histórico pré-Web       | ✅ Concluído | @gustavfreitas   | Documentar redes e protocolos anteriores à Web                      |
 | Trajetória de Tim Berners-Lee    | ✅ Concluído | @gustavfreitas   | Detalhar contribuições técnicas e científicas                       |
-| Arquitetura técnica da Web       | 🔄 Em andamento | @gustavfreitas   | Descrever HTTP, HTML, URI e princípios de design                    |
-| Padronização (W3C)               | 🔄 Em andamento | @gustavfreitas   | Explicar o papel do W3C na evolução da Web                          |
-| Web moderna e desafios atuais    | 🔄 Em andamento | @gustavfreitas   | Analisar Web Semântica, privacidade e o projeto Solid                |
+| Arquitetura técnica da Web       | ✅ Concluído | @gustavfreitas   | Descrever HTTP, HTML, URI e princípios de design                    |
+| Padronização (W3C)               | ✅ Concluído | @gustavfreitas   | Explicar o papel do W3C na evolução da Web                          |
+| Web moderna e desafios atuais    | ✅ Concluído | @gustavfreitas   | Analisar Web Semântica, privacidade e o projeto Solid                |
 
 </table>
 
