@@ -130,11 +130,62 @@ Evolução até temas contemporâneos: Web Semântica, neutralidade de rede, pri
 | Etapa                          | Status          | Responsável     | Objetivo                                                        |
 |----------------------------------|-----------------|------------------|---------------------------------------------------------------------|
 | Definição de escopo e objetivos  | ✅ Concluído    | @gustavfreitas   | Delimitar tema, público-alvo e objetivos do estudo                  |
-| Curadoria de fontes no NotebookLM| 🔄 Em andamento | @gustavfreitas   | Selecionar e carregar fontes confiáveis sobre o tema                |
+| Curadoria de fontes no NotebookLM| ✅ Concluído   | @gustavfreitas   | Selecionar e carregar fontes confiáveis sobre o tema                |
 | Contexto histórico pré-Web       | 🔄 Em andamento | @gustavfreitas   | Documentar redes e protocolos anteriores à Web                      |
 | Trajetória de Tim Berners-Lee    | 🔄 Em andamento | @gustavfreitas   | Detalhar contribuições técnicas e científicas                       |
 | Arquitetura técnica da Web       | ⏳ Planejado    | @gustavfreitas   | Descrever HTTP, HTML, URI e princípios de design                    |
 | Padronização (W3C)               | ⏳ Planejado    | @gustavfreitas   | Explicar o papel do W3C na evolução da Web                          |
 | Web moderna e desafios atuais    | ⏳ Planejado    | @gustavfreitas   | Analisar Web Semântica, privacidade e o projeto Solid                |
+
+</table>
+
+<table>
+  
+## 🔗 Referências
+
+### Pessoas e Instituições
+- [Tim Berners-Lee — Wikipédia](https://pt.wikipedia.org/wiki/Tim_Berners-Lee)
+- [CERN](https://home.cern/)
+- [World Wide Web Consortium (W3C)](https://www.w3.org/)
+
+### Tecnologia e Padrões
+- [HTTP — MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
+- [HTML — MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Web Semântica — W3C](https://www.w3.org/standards/semanticweb/)
+
+### Privacidade e Descentralização
+- [Projeto Solid](https://solidproject.org/)
+
+### Ferramentas e Metodologia de IA
+- [NotebookLM](https://notebooklm.google/)
+
+</table>
+
+## 🤝 Como Contribuir
+
+Contribuições são bem-vindas, especialmente sugestões de fontes, correções factuais e complementos ao conteúdo histórico.
+
+1. Faça um fork do repositório
+2. Crie uma branch para sua contribuição (`git checkout -b melhoria/nome-da-alteracao`)
+3. Faça o commit das alterações (`git commit -m "docs: adiciona conteúdo sobre X"`)
+4. Envie a branch (`git push origin melhoria/nome-da-alteracao`)
+5. Abra um Pull Request descrevendo a alteração proposta
+
+> **Dica:** para correções pontuais (erros de digitação, links quebrados), abra diretamente uma *Issue*.
+
+<table>
+
+## 📄 Licença
+
+Este projeto ainda não possui uma licença definida. Até que uma licença seja adicionada, todos os direitos sobre o conteúdo são reservados ao autor.
+
+</table>
+
+<table>
+
+## 👤 Autor
+
+**Gustavo Freitas**
+GitHub: [@gustavfreitas](https://github.com/gustavfreitas)
 
 </table>
