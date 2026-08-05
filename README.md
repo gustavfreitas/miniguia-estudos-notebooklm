@@ -112,9 +112,50 @@ Registro das perguntas estratégicas elaboradas no NotebookLM, as variações de
 
 ### 3.4 Lições aprendidas (troubleshooting geral)
 
-- `<ex: prompts muito abertos geram respostas superficiais — prompts com escopo e formato definidos (ex: "liste em ordem cronológica") funcionam melhor>`
-- `<ex: pedir explicitamente a citação da fonte reduz respostas genéricas>`
-- `<ex: dividir perguntas complexas em sub-perguntas melhorou a precisão>`
+<table>
+  
+Problema Observado: Pesquisadores tinham dificuldade para compartilhar informações entre instituições.
+- Erro Comum: Concluir que o problema era apenas "falta de computadores".
+# Troubleshooting
+Perguntas investigativas:
+- O problema é hardware?
+- É software?
+- É protocolo?
+- É organização?
+- É padronização?
+- É comunicação entre sistemas?
+- Causa-raiz encontrada: Não existia interoperabilidade entre sistemas heterogêneos.
+- Lição aprendida: Nunca corrija sintomas antes de identificar a causa estrutural.
+  
+  </table>
+  
+<table>
+  
+Problema Observado: Nem sempre a solução tecnicamente melhor vence.
+- Na época existiam alternativas, algumas tinham recursos superiores, mesmo assim a Web venceu, Por quê?
+
+# Troubleshooting
+Perguntas investigativas:
+- Era gratuita?
+- Era aberta?
+- Era simples?
+- Possuía barreiras?
+- Podia ser implementada por qualquer pessoa?
+- Lição aprendida: A melhor arquitetura nem sempre é a que possui mais funcionalidades
+
+</table>
+
+<table>
+  
+### A maior contribuição do troubleshooting aplicado à história da Internet e da Web é mostrar que as grandes inovações raramente surgem da criação imediata de uma nova tecnologia. Elas normalmente resultam de um ciclo disciplinado de investigação:
+
+1. Observar sintomas sem assumir a causa.
+2. Formular hipóteses concorrentes.
+3. Buscar evidências em fontes confiáveis.
+4. Identificar a causa-raiz do problema.
+5. Comparar alternativas existentes e seus limites.
+6. Projetar uma solução que resolva o problema central, aceitando os trade-offs.
+7. Avaliar continuamente os efeitos não previstos e iterar conforme novas necessidades surgem.
 
 </table>
 
