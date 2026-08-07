@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-concluído-green)
 ![Tipo](https://img.shields.io/badge/tipo-caderno%20temático-blue)
 ![Ferramenta](https://img.shields.io/badge/IA-NotebookLM-purple)
-![Licença](https://img.shields.io/badge/licença-não%20definida-lightgrey)
+![Licença](https://img.shields.io/badge/licença-MIT-green.svg)
 
 <table>
 
@@ -307,7 +307,8 @@ Contribuições são bem-vindas, especialmente sugestões de fontes, correções
 
 ## 📄 Licença
 
-Este projeto ainda não possui uma licença definida. Até que uma licença seja adicionada, todos os direitos sobre o conteúdo são reservados ao autor.
+Este projeto está licenciado sob os termos da **Licença MIT**.
+Consulte o arquivo [LICENSE](./LICENSE.md) para o texto completo.
 
 </table>
 
